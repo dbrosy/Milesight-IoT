@@ -10,7 +10,7 @@ function decodeUplink(input) {
   var warnings = [];
 
   var events = {
-    85: "ursalink-uc11-t1",
+    85: "ursalink_uc11-t1",
   };
   data.event = events[input.fPort];
 
