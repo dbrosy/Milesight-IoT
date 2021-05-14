@@ -43,11 +43,7 @@ function decodeUplink(input) {
   }
 
   return {
-    data: {
-        battery: data.battery,
-        temperature: data.temperature,
-        humidity: data.humidity
-    },
+    data: data,
     warnings: [],
     errors: [],
   };
