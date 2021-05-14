@@ -10,7 +10,7 @@ function decodeUplink(input) {
   var warnings = [];
 
   var events = {
-    85: "Milesight-IoT",
+    85: "milesight-iot-em300-th",
   };
   data.event = events[input.fPort];
 
