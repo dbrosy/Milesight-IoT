@@ -30,7 +30,7 @@
             i += 2;
 
             // ℉
-            // data.temperature = readInt16LE(bytes.slice(i, i + 2)) / 10 * 1.8 + 32;
+            // data.temperature = readInt16LE(input.bytes.slice(i, i + 2)) / 10 * 1.8 + 32;
             // i +=2;
         }
         // HUMIDITY
