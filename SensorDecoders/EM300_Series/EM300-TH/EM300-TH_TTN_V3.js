@@ -10,7 +10,7 @@
     var warnings = [];
 
     var events = {
-        85: "Ursalink"
+        85: "Milesight-IoT"
       };
     data.event = events[input.fPort];
 
