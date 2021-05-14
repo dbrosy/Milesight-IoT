@@ -1,5 +1,5 @@
 /**
- * Payload Decoder for The Things Network
+ * Payload Decoder for The Things Network v3
  *
  * Copyright 2021 Milesight IoT
  *
